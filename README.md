@@ -13,8 +13,6 @@
 <a href="https://sharbelkalloumah.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-203a43?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="mailto:sharbel.kalloumah@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=SharbelKalloumah&label=Profile%20views&color=2c5364&style=flat" alt="Profile views" />
-
 </div>
 
 ---
